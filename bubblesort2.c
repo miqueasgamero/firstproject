@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 //Comentario dentro de bubblesort.
-
 void swapPosition(int *position1, int *position2)
 {
   int buffer = *position1;
